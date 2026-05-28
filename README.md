@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="08_Comics_and_Visual_Storytelling/Branding/uma_archive_2026_logo.svg" alt="UMA Archive 2026 logo" width="720">
+</p>
+
 # UMA Archive 2026
 
 **Measured World · Measured Machine · Measured Self**
